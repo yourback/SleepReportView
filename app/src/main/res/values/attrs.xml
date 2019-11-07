@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SleepTimingChart">
+        <attr name="report_type" format="integer" />
+        <attr name="ratio" format="float" />
+        <attr name="text_size" format="dimension" />
+        <attr name="radius_side_circle" format="dimension" />
+        <attr name="radius_middle_circle" format="dimension" />
+        <attr name="radius_item_info_circle" format="dimension" />
+
+        <!--        <attr name="color_of_sleep_time_cylinder" format="string" />-->
+        <!--        <attr name="color_of_fall_in_sleep_time_cylinder" format="color" />-->
+        <!--        <attr name="color_of_axis_line" format="color" />-->
+        <!--        <attr name="color_of_group_circle" format="color" />-->
+        <!--        <attr name="color_of_axis_text" format="color" />-->
+        <!--        <attr name="ratio" format="integer" />-->
+
+        <!--        <attr name="radius_of_small_circle" format="dimension" />-->
+        <!--        <attr name="radius_of_big_circle" format="dimension" />-->
+
+        <!--        <attr name="textsize_of_axis_text" format="integer" />-->
+
+        <!--        <attr name="unit_of_y_axis" format="string" />-->
+
+        <!--        <attr name="size_of_each_grid_y" format="integer" />-->
+    </declare-styleable>
+</resources>
