@@ -7,6 +7,8 @@
         <attr name="radius_side_circle" format="dimension" />
         <attr name="radius_middle_circle" format="dimension" />
         <attr name="radius_item_info_circle" format="dimension" />
+        <attr name="left_top_icon" format="reference" />
+        <attr name="right_top_icon" format="reference" />
 
         <!--        <attr name="color_of_sleep_time_cylinder" format="string" />-->
         <!--        <attr name="color_of_fall_in_sleep_time_cylinder" format="color" />-->

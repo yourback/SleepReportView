@@ -12,5 +12,19 @@
     <color name="color_text">#000</color>
 
 
+    <color name="red">#FF0000</color>
+    <color name="snore_fail">#FACD60</color>
+    <color name="snore_success">#1AC0C6</color>
+    <!--    仰卧-->
+    <color name="supine">#BAE8E8</color>
+    <!--    侧卧-->
+    <color name="side_lying">#2C698D</color>
+    <!--    强鼾声-->
+    <color name="strength_snore">#F9B4AB</color>
+    <!--    中鼾声-->
+    <color name="med_snore">#679186</color>
+    <!--    弱鼾声-->
+    <color name="weak_snore">#BBD4CE</color>
+
 
 </resources>

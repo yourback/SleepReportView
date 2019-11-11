@@ -4,20 +4,25 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <com.example.sleepreportview.frame.SleepTimingChart
-        android:layout_width="match_parent"
         android:id="@+id/stc"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:clickable="true"
+        android:focusable="true"
         android:padding="5dp"
-        android:layout_margin="20dp"
+        app:left_top_icon="@color/colorPrimaryDark"
         app:radius_item_info_circle="7dp"
         app:radius_middle_circle="4dp"
         app:radius_side_circle="5dp"
-        app:ratio="1"
+        app:ratio="1.5"
+        app:report_type="1"
+        app:right_top_icon="@color/colorPrimaryDark"
         app:text_size="10dp" />
 
 </LinearLayout>
